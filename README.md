@@ -1,0 +1,1 @@
+A quick and easy to implement fastapi authentication system. It can be used as a base for fastapi projects.

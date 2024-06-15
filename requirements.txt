@@ -1,0 +1,4 @@
+fastapi
+cs50
+
+mysqlclient # if you are using MySQL
